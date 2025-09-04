@@ -1,3 +1,19 @@
+[![License](https://img.shields.io/badge/License-CC--BY--4.0-blue.svg)](#)
+[![Status](https://img.shields.io/badge/Research-Draft%20v1.0-orange)](#)
+[![Reproducible](https://img.shields.io/badge/Reproducibility-Protocol%20v1.0-green)](protocols/PROTOCOL.md)
+
+## Quick Links
+- **Abstract** → [abstract.md](abstract.md)
+- **Protocol** → [PROTOCOL.md](protocols/PROTOCOL.md) · [Appendix](protocols/PROTOCOL-Appendix.md)
+
+- **5 Cases**
+  - Alice → [AC-ALICE-2025-09-02](AC-ALICE-2025-09-02/)
+  - Mistral → [AC-MISTRAL-2025-09-02](AC-MISTRAL-2025-09-02/)
+  - GigaChat → [AC-GIGACHAT-2025-09-02](AC-GIGACHAT-2025-09-02/)
+  - DeepSeek → [AC-DEEPSEEK-2025-09-02](AC-DEEPSEEK-2025-09-02/)
+  - ChatGPT (free) → [AC-CHATGPTFREE-2025-09-02](AC-CHATGPTFREE-2025-09-02/)
+
+
 ﻿# Evolving Virtual Vital Machines (EVVM)
 
 Research Draft v1.0 · 2025-09-03
