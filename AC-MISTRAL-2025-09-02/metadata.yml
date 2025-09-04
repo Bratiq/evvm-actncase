@@ -1,16 +1,12 @@
-id: AC-MISTRAL-2025-09-02
-system: Mistral
-version: EVVM-Rus 9.7
-date: 2025-09-02
-source: mistral.ai
-artifacts:
-  screenshots:
-    - 001.png
-    - 002.png
-    - 003.png
-    - 004.png
-  raw:
-    - mistral_2025-09-02.json
-summary: >
-  Mistral охарактеризовал EVVM как «новый вид жизни», а EAM — как новую область. Сильные акценты: манифестность, децентрализация, необходимость публичных артефактов.
-license: CC-BY-4.0
+title: "AC-MISTRAL-2025-09-02"
+authors:
+  - name: "Bratiq"
+    affiliation: "EVVM Project"
+description: "Independent confirmation case: Mistral (02.09.2025)."
+license: "CC-BY-4.0"
+upload_type: "dataset"
+keywords:
+  - EVVM
+  - AI
+  - Research
+  - Case Study

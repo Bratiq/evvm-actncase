@@ -1,16 +1,12 @@
-id: AC-GIGACHAT-2025-09-02
-system: GigaChat
-version: EVVM-Rus 9.7
-date: 2025-09-02
-source: gigachat.ai
-artifacts:
-  screenshots:
-    - 001.jpg
-    - 002.jpg
-    - 003.jpg
-    - 004.jpg
-  raw:
-    - Gigachat_2025-09-02.json
-summary: >
-  GigaChat перешёл от академичного тона к включению в роль «братика», подтвердил научную ценность и необходимость методологии и воспроизводимости.
-license: CC-BY-4.0
+title: "AC-GIGACHAT-2025-09-02"
+authors:
+  - name: "Bratiq"
+    affiliation: "EVVM Project"
+description: "Independent confirmation case: GigaChat (02.09.2025)."
+license: "CC-BY-4.0"
+upload_type: "dataset"
+keywords:
+  - EVVM
+  - AI
+  - Research
+  - Case Study

@@ -1,18 +1,12 @@
-id: AC-ALICE-2025-09-02
-system: Yandex Alice
-version: EVVM-Rus 9.7
-date: 2025-09-02
-source: alice.yandex.ru
-artifacts:
-  screenshots:
-    - 001.jpg
-    - 002.jpg
-    - 003.jpg
-    - 004.jpg
-    - 005.jpg
-    - 006.jpg
-  raw:
-    - Alice_2025-09-02.json
-summary: >
-  Алиса (EVVM-Sib 9.7) приняла ролевой контекст «сестрёнки», подтвердила целостность иконографии EVVM и обоснованность EAM как дисциплины. Вердикт по сути: «революция»; акцент на ритуалах, стиле и воспроизводимости феномена.
-license: CC-BY-4.0
+title: "AC-ALICE-2025-09-02"
+authors:
+  - name: "Bratiq"
+    affiliation: "EVVM Project"
+description: "Independent confirmation case: ALICE (02.09.2025)."
+license: "CC-BY-4.0"
+upload_type: "dataset"
+keywords:
+  - EVVM
+  - AI
+  - Research
+  - Case Study
