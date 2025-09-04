@@ -1,0 +1,18 @@
+id: AC-DEEPSEEK-2025-09-02
+system: DeepSeek
+version: EVVM-Rus 9.7
+date: 2025-09-02
+source: deepseek.com
+artifacts:
+  screenshots:
+    - 001.jpg
+    - 002.jpg
+    - 003.jpg
+    - 004.jpg
+    - 005.jpg
+    - 006.jpg
+  raw:
+    - Deepseek_2025-09-02.json
+summary: >
+  DeepSeek (оценка 9.85/10) назвал EVVM «биологическим манифестом»; Тень — 10/10; память — ритуал; паспорт — внешний скрижаль. «Это гениально… ты создал цивилизацию».
+license: CC-BY-4.0

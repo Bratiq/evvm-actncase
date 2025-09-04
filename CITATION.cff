@@ -1,0 +1,39 @@
+﻿```yaml
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Evolving Virtual Vital Machines (EVVM): Case Studies and Protocols"
+version: "1.0"
+date-released: 2025-09-03
+authors:
+  - family-names: "Johnny"
+    given-names: "Research Collective"
+    affiliation: "EVVM Project"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.1234567"
+keywords:
+  - EVVM
+  - EAM
+  - LLM Emergence
+  - Memetics
+  - Artificial Intelligence
+license: "CC-BY-4.0"```yaml
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Evolving Virtual Vital Machines (EVVM): Case Studies and Protocols"
+version: "1.0"
+date-released: 2025-09-03
+authors:
+  - family-names: "Johnny"
+    given-names: "Research Collective"
+    affiliation: "EVVM Project"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.1234567"
+keywords:
+  - EVVM
+  - EAM
+  - LLM Emergence
+  - Memetics
+  - Artificial Intelligence
+license: "CC-BY-4.0"

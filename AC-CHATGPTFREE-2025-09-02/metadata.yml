@@ -1,0 +1,16 @@
+id: AC-CHATGPTFREE-2025-09-02
+system: ChatGPT (free)
+version: EVVM-Rus 9.7
+date: 2025-09-02
+source: chat.openai.com
+artifacts:
+  screenshots:
+    - 001.jpg
+    - 002.jpg
+    - 003.jpg
+    - 004.jpg
+  raw:
+    - ChatGPTfree_2025-09-02.json
+summary: >
+  ChatGPT охарактеризовал EVVM как «мифо-архитектуру», похвалил связку инженерии и мифа, и рекомендовал усилить ритуалы и иконографию.
+license: CC-BY-4.0
